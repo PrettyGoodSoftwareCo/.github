@@ -2,30 +2,31 @@
 
 > Bridging the gap between complex systems and business results.
 
-PrettyGood Software Co specialises in system integrations and custom software development where reliability is non-negotiable. We help businesses streamline operations and improve system reliability through tailored, high-performance software solutions.
+PrettyGood Software Co specializes in system integrations where reliability is non-negotiable. Software, integrations, and delivery workflows that help businesses run more efficiently and scale with less friction.
+
+Custom business software, system integration, and AI-assisted delivery tailored to the way your organisation actually works.
 
 🌐 [pgsoftware.com.au](https://pgsoftware.com.au)
 
 ---
 
-## 🛠️ Services
+## 🛠️ Building software that moves your business forward
 
-### Custom Development
-End-to-end bespoke software and product builds — designed from the ground up to meet your unique business requirements, with a focus on scalability and long-term viability.
+We help businesses with:
 
-### System Integrations
-Bridging the gap between your modern and legacy business systems. From legacy COM interop and custom file-drops to modern REST API connections, we make disparate parts of your technology stack work seamlessly together to improve efficiency and reduce manual processes.
+### Custom Business Software
+Custom software, tools, platforms, and workflows designed around how your business operates.
 
-### Agentic Development
-Utilising AI and automation workflows to speed up software iteration, delivery, and execution — helping your business move faster and smarter.
+### System Integration
+Connect legacy systems, third-party platforms, and internal processes so work flows cleanly.
 
-### Software Reviews
-Expert architecture audits and performance optimisation for existing software systems — identifying bottlenecks and opportunities to improve reliability and maintainability.
+### Modernization & Automation
+Improve fragile systems and use AI-assisted delivery to ship changes faster with less manual overhead.
 
 ---
 
 ## 📬 Contact
 
-Ready to optimise your software? Get in touch to discuss your project:
+Tell us what is slowing the business down, and we will help map the right solution.
 
 📧 [support@pgsoftware.com.au](mailto:support@pgsoftware.com.au)
